@@ -1,0 +1,253 @@
+body{
+    background-color: ;
+}
+
+.all{
+    background-color: floralwhite;
+    width: 100%;
+}
+
+#baslikresim{
+    background-color: floralwhite;
+}
+
+.menu ul{
+    display:block;
+    margin: auto;
+    padding: 15px;
+    list-style-type: none;
+    background-color: floralwhite; 
+}
+
+.menu{
+    display:inline-block;
+    list-style: none;
+    text-align: center;
+     margin-right: 350px    ;
+    margin-left: 540px;
+}
+
+.sevilentatlilar img{
+    width: 300px;
+}
+
+.menu li a{
+    display: block;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    text-align: center; 
+}
+
+.menu li{
+    float: left;
+    border-radius: 5px;
+    border-style: solid;
+    background-color: white;
+}
+
+.menu ul li a:hover{
+    background-color: floralwhite;
+    color: red;
+    border-color: red;
+    font-family: sans-serif;
+}
+
+.sevilentatlilar h3{
+    text-align: center;
+    font-family: serif;
+    color: brown;
+    background-color: floralwhite;
+}
+
+#body h2{
+    text-align: center;
+    color: floralwhite;
+    background-color: #CD5C5C;
+}    
+
+#iletisim {
+    background-color: dimgray;
+    font-family: inherit;
+    text-align: center;
+}
+#iletisim a{
+    font-family: serif;
+    color: aliceblue;
+}
+
+.telefon{
+     color: white;
+    font-family: fantasy;
+    height: 10px;
+}
+
+/*-----------------Baklava TArif Sayfası--------------------------------------------------------------------*/
+
+#baklavatarif{
+    background-color: floralwhite;
+}
+
+#header{
+    background-color: floralwhite;
+}
+
+#baslik1{
+    text-align: center;
+    color: crimson;
+}
+
+#resim{
+    text-align: center;
+    background-color: floralwhite;
+}
+
+.malzemeleri_baslik{
+    padding-left: 110px;
+    color: darkred;
+    background-color: antiquewhite;
+
+}
+
+.malzemeleri_baslik2{
+    background-color: beige;
+    color: darkred;
+    padding-left: 110px;
+}
+
+
+#malzemeleri{
+    background-color: antiquewhite;
+}
+
+.hamur_hazirla_baslik{
+      background-color: beige;
+     color: red;
+     padding-left: 215px;
+}
+    
+.ol_liste{
+    font-family: cursive;
+    padding-right: 300px;
+}
+
+.baklavaresim{
+    padding-left: 600px;
+    padding-right: 200px;
+     background-color: beige;
+}
+
+.baklavamalzeme{
+    padding-left: 600px;
+    background-color: antiquewhite;
+}
+
+
+/*--------------------HAKKIMIZDA------------------------*/
+
+#hakkimizdaresim{
+    padding-left: 444px;
+}
+
+#hakkimizda{
+    padding-left: 450px;   
+}
+
+#hakkimizda>pre{
+    font-family: cursive;
+    color: white;
+}
+
+#hakkimizda b{
+    font-family: cursive;
+    color: black;
+}
+
+#hakkimizda_all{
+    background-color: lightcoral;
+}
+
+/*-------------------------Çikolatalı Tatlılar------------------------------*/
+
+#cikolatalitatlilar_baslik{
+    text-align: center;
+    color: azure;
+}
+
+.cikolatalitatlilar_tablo{
+    text-align: center;
+    width: 900px;
+    height: 900px;
+    text-decoration-style: dotted;
+    text-decoration-line: underline;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.cikolatalitatlilar_all{
+    background-color: darkred;
+}
+
+.cikolatalitatlilar_tablo b{
+    color: white;
+    font-family: inherit;
+}
+
+.cikolatalitatlilar_tablo b:hover{
+    background-color: white;
+    color: red;
+}
+
+.cikolatalitatlilar_tablo:hover{
+    color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
